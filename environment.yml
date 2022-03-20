@@ -1,0 +1,5 @@
+name: csc30012
+channels:
+  - defaults
+dependencies:
+  - python=3.8
